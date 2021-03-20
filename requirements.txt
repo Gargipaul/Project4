@@ -21,7 +21,7 @@ ipywidgets==7.5.0
 itsdangerous==0.24
 jdcal==1.4.1
 jedi==0.13.3
-Jinja2==2.10
+Jinja2==2.11.3
 joblib==0.13.2
 kdtree==0.16
 Keras==2.2.4
