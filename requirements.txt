@@ -22,7 +22,7 @@ itsdangerous==0.24
 jdcal==1.4.1
 jedi==0.13.3
 Jinja2==2.10
-joblib==0.13.2
+joblib==1.2.0
 kdtree==0.16
 Keras==2.2.4
 Keras-Applications==1.0.8
